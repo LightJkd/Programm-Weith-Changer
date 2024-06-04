@@ -4,7 +4,7 @@ Allows you to change the weight of .EXE files.
 
 ⚡ How to configure?
 
-Change .EXE files weith
+Change weith .EXE files
 
 ❓ How it Works?
 fileIn.seekg(0, std::ios::end);
