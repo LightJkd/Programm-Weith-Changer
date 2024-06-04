@@ -1,4 +1,5 @@
-#🔌 Programm-Weith-Changer
+🔌 Programm-Weith-Changer
+
 Allows you to change the weight of .EXE files.
 
 ⚡ How to configure?
