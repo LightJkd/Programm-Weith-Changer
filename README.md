@@ -7,6 +7,7 @@ Allows you to change the weight of .EXE files.
 Change weith .EXE files
 
 ❓ How it Works?
+
 fileIn.seekg(0, std::ios::end);
     int fileSize = fileIn.tellg();
 
