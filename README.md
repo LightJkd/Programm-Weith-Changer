@@ -4,7 +4,7 @@
 
 ## ⚡ How to configure?
 
-Change weith .EXE files
+**Change weith .EXE files**
 
 ## ❓ How it Works?
 
