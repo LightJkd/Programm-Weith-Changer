@@ -27,7 +27,7 @@ void increaseWeight(const std::string& filePath, int kbToAdd) {
     std::cout << "File weight increased by " << kbToAdd << " KB" << std::endl;
 }
 
-void printWithDelay(const std::string& text, int delayMs) {
+void Animete(const std::string& text, int delayMs) {
     for (char c : text) {
         std::cout << c << std::flush;
         std::this_thread::sleep_for(std::chrono::milliseconds(delayMs));
@@ -45,7 +45,7 @@ int main() {
     
     "Author: Light\n\n";
     
-    printWithDelay(demo, 6);
+    Animete(demo, 6);
     
     std::cout << "Enter the path to the file: ";
     std::getline(std::cin, filePath);
